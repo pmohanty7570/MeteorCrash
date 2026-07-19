@@ -18,7 +18,7 @@ let gameWon = false;
 let shipImg;
 
 function preload() {
-  shipImg = loadImage('Images/Ship.png');
+  shipImg = loadImage('Ship.png');
 }
 
 function setup() {
